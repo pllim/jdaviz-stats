@@ -17,8 +17,8 @@ Scripts to generate GitHub stats for [Jdaviz](https://github.com/spacetelescope/
 2. Run `scripts/get_stats.py` to obtain `jdaviz_open_issues_<timestamp>.csv`
    in your working directory.
 
-3. Run `scripts/lifetime_histogram_bokeh.py` to generate a
-   `lifetime_histogram_bokeh.html` file.
+3. Run `scripts/histogram_by_label_bokeh.py` to generate a
+   `histogram_by_label_bokeh.html` file.
 
 4. Serve your HTML file to share the interactive plot.
 
